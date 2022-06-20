@@ -27,6 +27,6 @@ func fibonacci(s int) []int {
 }
 
 func main() {
-	result := fibonacci(100)
+	result := fibonacci(1000)
 	fmt.Println(result)
 }
